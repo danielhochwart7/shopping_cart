@@ -1,0 +1,22 @@
+{
+  "name": "screencast_restful",
+  "version": "0.0.1",
+  "description": "Ap bas para screencast restful",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screencast",
+    "rest",
+    "restful"
+  ],
+  "author": "Hochwart",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0",
+    "body-parser": "~1.15.2",
+    "validator": "~5.5.0",
+    "mongoose": "~4.5.8"
+  }
+}

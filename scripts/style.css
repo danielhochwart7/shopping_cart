@@ -1,0 +1,45 @@
+h3 {
+    font-family: cursive;
+    border: width border-style color;
+    color: darkslategray;
+}
+
+.label-warning {
+    background-color: gold;
+    padding: 1px 1px;
+    padding: 1px 1px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 3px;
+}
+
+a {
+    color: red;
+}
+
+.label-success {
+    font-family: cursive;
+    background-color: green;
+    padding: 1px 1px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 3px;
+}
+
+th, td {
+    font-family: cursive;
+    padding: 1px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
